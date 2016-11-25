@@ -1,5 +1,7 @@
 # lmdb.cr
 
+WIP: 
+
 Lmdb client for [Crystal](http://crystal-lang.org/).
 
 - crystal: 0.20.0
